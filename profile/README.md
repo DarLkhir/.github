@@ -20,5 +20,5 @@ Depending on what you are willing to give, you need only to follow the guide lin
 ## 🍿 Fun facts
 
 - This project is initiated with love!
-- First team members are all [CINDH club](http://ensias.um5.ac.ma/) members.
+- First team members are all [CINDH club](https://www.facebook.com/cindh.ensias) members.
 - The first team who started on this project all love [Maroccan tajins](https://www.pinterest.com/pin/305963368438848604/)
